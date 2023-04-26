@@ -2567,7 +2567,8 @@ input, select, textarea {
 		display: inline-block;
 		position: relative;
 		object-fit:scale-down;
-		max-width: 100%;
+		max-width: 120%;
+		width: 15%;
 	}
 
 		.image img {
